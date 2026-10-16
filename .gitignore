@@ -1,0 +1,13 @@
+# Copias de seguridad de Blender
+*.blend1
+*.blend2
+*.blend@
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Exportaciones temporales de Sollumz / CodeWalker
+*.tmp
+*.bak
